@@ -5,3 +5,5 @@ A touch of the human emotion, make the platform more appleaing in performing the
 
 The models shared above are well integrated with each other and with the user interface for the real time analysis 
 and processing the textual data shared by the users. 
+
+The model performance has been displayed using the graph of accuracy. 
