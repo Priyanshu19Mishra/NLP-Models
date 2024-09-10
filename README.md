@@ -7,3 +7,5 @@ The models shared above are well integrated with each other and with the user in
 and processing the textual data shared by the users. 
 
 The model performance has been displayed using the graph of accuracy. 
+A PPT has been in this repository for the theoritical explanation of the various applications of the NLP models 
+along with their implementation. 
